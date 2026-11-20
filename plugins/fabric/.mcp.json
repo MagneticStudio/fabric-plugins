@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "fabric": {
+      "type": "http",
+      "url": "https://trusted-portal-demo.up.railway.app/mcp/applications-oauth",
+      "oauth": {
+        "clientId": "fabric-codex-browser",
+        "callbackUrl": "http://127.0.0.1/callback"
+      }
+    }
+  }
+}

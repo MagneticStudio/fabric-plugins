@@ -1,0 +1,20 @@
+{
+  "name": "fabric",
+  "version": "0.1.0",
+  "description": "Draft Fabric apps and build previews. Publish from the Fabric portal.",
+  "author": {
+    "name": "Magnetic Ventures"
+  },
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Fabric",
+    "shortDescription": "Draft and preview apps in Fabric",
+    "longDescription": "Use your own Fabric account to draft apps and build previews. Review and publish in Fabric.",
+    "developerName": "Magnetic Ventures",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ]
+  }
+}
